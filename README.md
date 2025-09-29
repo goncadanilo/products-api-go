@@ -26,7 +26,6 @@ A **Products API GO** é uma API RESTful desenvolvida em GO como parte dos meus 
 
 - [Go](https://golang.org/)
 - [Gin](https://gin-gonic.com/)
-- [GORM](https://gorm.io/)
 - [Docker](https://www.docker.com/)
 - [PostgreSQL](https://www.postgresql.org/)
 
