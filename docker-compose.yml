@@ -1,4 +1,12 @@
 services:
+  go-app:
+    container_name: go-app
+    image: products-api-go
+    build: .
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
   postgres:
     image: bitnami/postgresql:latest
     ports:
