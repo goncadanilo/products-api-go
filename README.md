@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">🛍️ Products API GO</h1>
   <p align="center">
-    Uma API RESTful para gerenciamento de produtos, desenvolvida em Go.
+    Uma API REST para gerenciamento de produtos, desenvolvida em Go.
   </p>
 </p>
 
@@ -18,7 +18,7 @@
 
 ## 📝 Descrição
 
-A **Products API GO** é uma API RESTful desenvolvida em GO como parte dos meus estudos e aprimoramento profissional. O projeto tem como objetivo testar minhas habilidades desenvolvendo uma aplicação (CRUD) utilizando boas práticas da linguagem GO
+A **Products API GO** é uma API REST desenvolvida em GO como parte dos meus estudos e aprimoramento profissional. O projeto tem como objetivo testar minhas habilidades desenvolvendo uma aplicação (CRUD) utilizando boas práticas da linguagem GO
 
 ---
 
